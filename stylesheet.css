@@ -1,0 +1,45 @@
+body{
+    background: #1A1A1B;
+    color:  #ffffff;
+    padding: 30px;
+    margin: 0;
+    font-family: 'droid sans';
+    align-content: center;
+    text-align: center;
+}
+
+p{
+    font-size: 23px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #ff3333;
+    font-family: 'ubuntu';
+}
+
+button{
+    font-family: 'ubuntu';
+    font-size: 23px;
+    background: #1A1A1B;
+    outline: #ffffff;
+    border: #ffffff;
+}
+
+nav ul li{
+    display: inline;
+    font-size: 24px;
+    align-content: center;
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 24px;
+}
+
+footer{
+    font-family: 'Pacifico'; 
+}
